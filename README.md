@@ -59,7 +59,4 @@ npm run dev
 ```
 
 Frontend runs at `http://localhost:5173`.
-
-## Submission Note
-
-To push to GitHub, initialize git in this root folder and push the full repository so both `frontend/` and `backend/` are included.
+.
